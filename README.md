@@ -9,10 +9,10 @@ This application helps users track their income and expenses while displaying th
 
 ## 📌 Features
 
-✔ Add income and expense transactions
-✔ Automatically calculates total **balance**
-✔ Displays **total income and expenses** separately
-✔ Clean and simple user interface
+✔ Add income and expense transactions <br>
+✔ Automatically calculates total **balance** <bR>
+✔ Displays **total income and expenses** separately <br>
+✔ Clean and simple user interface <br>
 ✔ Instant updates when a new transaction is added
 
 ## 🛠️ Built With
