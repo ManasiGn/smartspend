@@ -5,7 +5,7 @@ This application helps users track their income and expenses while displaying th
 
 ## 🚀 Live Demo
 
-🔗 
+🔗 https://manasign.github.io/smartspend/
 
 ## 📌 Features
 
